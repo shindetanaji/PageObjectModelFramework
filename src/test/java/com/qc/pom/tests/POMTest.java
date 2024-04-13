@@ -20,4 +20,9 @@ public class POMTest extends BaseIntegration {
 			Assert.assertTrue(login.verifyLoginPageTitle());
 		}
 	}
+	
+	@Test
+	public void doRegister() {
+		
+	}
 }
